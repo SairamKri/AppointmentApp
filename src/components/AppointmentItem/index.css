@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.list-name-appointment {
+  list-style-type: none;
+  background-color: transparent;
+  border-radius: 8px;
+  border: 1px solid #b5b7c4;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.name-star-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.star-button {
+  background-color: transparent;
+  border: 0px;
+}
+
+.input-name {
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.date-paragraph {
+  font-family: 'Roboto';
+  font-size: 8px;
+  color: #b5b7c4;
+}
